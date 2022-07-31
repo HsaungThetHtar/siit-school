@@ -1,0 +1,51 @@
+header{
+     background-color: #7b5497;
+     height: 180px;
+}
+#img{
+    position: relative;
+  left: 200px;
+}
+
+.input-icons i {
+    position: relative;
+    color: gray;
+    padding: 50px;
+    
+
+}
+#text{
+    text-align:center;
+    height: 30px;
+    border-radius: 15px;
+    font-size: 20px;
+
+    
+    
+}
+#icon{
+    left: 100px;
+
+   
+}
+
+#right{
+margin-left: 800px;
+
+}
+#header-strip ul {
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+   
+    background-color: #7b5497;
+    list-style-type: none;
+}
+
+#header-strip li {
+    
+   color: aliceblue; 
+  display: inline;
+  justify-content: space-between;
+}
